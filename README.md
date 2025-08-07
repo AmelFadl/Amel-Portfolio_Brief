@@ -1,8 +1,9 @@
 # Amel-s-Portfolio
 Analytics Portfolio
-# [Project 1: SQL360 Analytics for vehicles Company]
+# [Project 1: SQL360]
 Description:
-* SQL-driven business intelligence engine featuring customer analytics, inventory insights, fulfillment performance, and profitability metrics — built using views, procedures, and functions.
-* This project captures the full-circle analytics across customers, orders, inventory, and profit.
-* Program used: MySQL Workbench
-  
+*  SQL-powered business intelligence engine that delivers end-to-end analytics across customer prefrences behavior, inventory trends, order fulfillment, and profitability. Built with views, stored procedures, and functions, it transforms raw data into actionable insights for strategic decision-making.
+*  Note: This project uses historical data (2003- 2005) to demonstrate SQL-based analytics architecture and business intelligence capabilities.
+* Data is taken from an SQL course which I attended SQL in July 2025
+* Analysis Tool: SQL Language
+* Platform: MySQL Workbench
