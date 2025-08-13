@@ -4,6 +4,6 @@ Analytics Portfolio
 Description:
 *  SQL-powered business intelligence engine that delivers end-to-end analytics across customer prefrences behavior, inventory trends, order fulfillment, and profitability. Built with views, stored procedures, and functions, it transforms raw data into actionable insights for strategic decision-making.
 *  Note: This project uses historical data (2003- 2005) to demonstrate SQL-based analytics architecture and business intelligence capabilities.
-* Dataset Origin: Sourced from a publicly available dataset shared during an SQL training in July 2025. Included here for illustrative and non-commercial use.
+* Dataset Origin: This dataset,is sourced from a publicly available SQL course in July 2025, is used here solely for educational and demonstration purposes.
 * Analysis Tool: SQL Language
 * Platform: MySQL Workbench
