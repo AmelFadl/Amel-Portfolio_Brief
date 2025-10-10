@@ -1,5 +1,5 @@
-# Amel's Portfolio Summary
-Analytics Portfolio
+# Amel's Projects Overview
+Analytics Projects Summary and their Datasets
 # [Project 1: SQL360 ]
 Description:
 *  SQL-powered business intelligence engine that delivers end-to-end analytics across customer prefrences behavior, inventory trends, order fulfillment, and profitability. Built with views, stored procedures, and functions, it transforms raw data into actionable insights for strategic decision-making.
