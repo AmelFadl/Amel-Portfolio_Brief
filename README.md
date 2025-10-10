@@ -20,24 +20,6 @@ Objectives:
 * Automate churn evaluation via SQL stored procedures.
 * Deliver actionable insights for retention and strategy.
   
-Methodology:
-1. ERD Design – Fact table telecom_customer_churn joined with lookup tables.
-2. Unified View (churn_analysis) – Combined demographics, usage, contracts, and churn data.
-3. Hypotheses View (churn_hypotheses) – Encoded 10 churn-related patterns using CASE logic.
-4. Baseline Churn – Computed overall churn at 26.5%.
-5. Automated Testing – Created stored procedure evaluate_hypotheses() to summarize and interpret results.
-   
-Key Findings:
-* Monthly contracts, dissatisfaction, and high data usage increase churn.
-* Referrals, dependents, and long-term contracts reduce churn.
-* Population density had no significant impact.
-  
-Insights & Recommendations:
-* Incentivize long-term contracts.
-* Improve customer satisfaction touchpoints.
-* Expand referral programs.
-* Focus retention on high-risk segments.
-  
 Tech Stack:
 * SQL (MySQL)
 * Views, Stored Procedures, CASE Statements, Aggregations
