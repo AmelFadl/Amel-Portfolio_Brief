@@ -1,4 +1,4 @@
-# Amel-s-Portfolio
+# Amel's Portfolio
 Analytics Portfolio
 # [Project 1: SQL360]
 Description:
