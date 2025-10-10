@@ -1,4 +1,4 @@
-# Amel's Projects Overview
+# Amel's Portfolio Overview
 Analytics Projects Summary and their Datasets
 # [Project 1: SQL360 ]
 Description:
