@@ -1,5 +1,5 @@
-# Portfolio Overview
-Analytics Projects Summary and their Datasets
+# Portfolio Summary
+Explore original datasets and the resulting CSV outputs that highlight meaningful patterns, trends, and actionable insights.
 # [Project 1: SQL360 ]
 Description:
 *  SQL-powered business intelligence engine that delivers end-to-end analytics across customer prefrences behavior, inventory trends, order fulfillment, and profitability. Built with views, stored procedures, and functions, it transforms raw data into actionable insights for strategic decision-making.
