@@ -16,8 +16,6 @@ Project Overview:
 Objectives:
 * Design a normalized telecom schema and ERD.
 * Establish the baseline churn rate.
-* Encode and test 10 hypotheses using CASE logic.
-* Automate churn evaluation via SQL stored procedures.
 * Deliver actionable insights for retention and strategy.
   
 Tech Stack:
