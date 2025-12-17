@@ -70,8 +70,6 @@ long-term customer loyalty.
 
 ## Tech Stack
 - SQL (MySQL)
-- Aggregations and CASE-based segmentation
-- Predefined analytical views and automated evaluation logic
 
 ## Notes
 - All results are aggregated and anonymized.
