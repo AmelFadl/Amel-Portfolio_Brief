@@ -42,15 +42,6 @@ and detailed query logic are intentionally excluded.
 - Compare churn rates across customer segments
 - Derive actionable insights for retention and strategy
 
-## Conclusion
-The analysis indicates that customers on monthly contracts, heavy internet users,
-and those expressing dissatisfaction are more likely to churn, while referrals and
-long-term contracts are associated with reduced churn likelihood.
-
-The analysis highlights key opportunities to reduce churn through longer-term contract
-incentives, improved customer experience, and stronger referral programs, supporting
-long-term customer loyalty.
-
 ## Methodology
 - Customer segmentation based on demographic, service, and behavioral attributes
 - Churn rate comparison between control and target groups
@@ -67,6 +58,15 @@ long-term customer loyalty.
 8. Customers who submit referrals and have dependents are less likely to churn, regardless of gender.
 9. City population has limited impact on churn among high-spending internet-only households.
 10. Certain service usage ratios among older customers with larger families are associated with lower churn rates.
+
+## Conclusion
+The analysis indicates that customers on monthly contracts, heavy internet users,
+and those expressing dissatisfaction are more likely to churn, while referrals and
+long-term contracts are associated with reduced churn likelihood.
+
+The analysis highlights key opportunities to reduce churn through longer-term contract
+incentives, improved customer experience, and stronger referral programs, supporting
+long-term customer loyalty.
 
 ## Tech Stack
 - SQL (MySQL)
