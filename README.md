@@ -73,7 +73,7 @@ long-term customer loyalty.
 - SQL (MySQL)
 
 ## Notes
--This project was completed as part of an SQL training initiative by Data Projects Community. The dataset was provided through the course and is publicly available for educational use.
+- This project was completed as part of an SQL training initiative by Data Projects Community. The dataset was provided through the course and is publicly available for educational use.
 Originally developed in October 2025.
 All SQL queries, analysis, and insights were developed independently.
 - All results are aggregated and anonymized.
