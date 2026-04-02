@@ -71,5 +71,6 @@ long-term customer loyalty.
 - SQL (MySQL)
 
 ## Notes
+- This project was completed as part of an SQL training initiative by Data Projects Community. The dataset was provided through the course and is publicly available for educational use. All SQL queries, analysis, and insights were developed independently.
 - All results are aggregated and anonymized.
 - Churn indicator values used in visual outputs: 1 = Churned, 0 = Not Churned.
