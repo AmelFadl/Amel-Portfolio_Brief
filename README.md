@@ -16,8 +16,7 @@ actionable insights for strategic decision-making.
 
 ## Notes
 - This project uses historical data (2003–2005) for demonstration purposes.
-- Dataset Origin: The dataset was sourced from a publicly available SQL training course and is used solely for educational and demonstration purposes.
-
+- This project was completed as part of an SQL training initiative by Data Projects Community. The dataset was provided through the course and is publicly available for educational use. All SQL queries, analysis, and insights were developed independently.
 ## Tools & Platform
 - Analysis Tool: SQL
 - Platform: MySQL Workbench
