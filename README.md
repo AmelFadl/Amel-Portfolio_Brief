@@ -30,6 +30,7 @@ All SQL queries, analysis, and insights were developed independently.
 
 ## Project Overview
 This project presents production-ready analytics of a telecom customer churn study, focused on identifying key churn drivers, providing actionable insights, and validating 10 business hypotheses using SQL-based data modeling and aggregation logic. A baseline churn rate of approximately 26.5% was established using an integrated customer and service dataset. Strategic recommendations are provided to support customer retention initiatives. 
+
 The dataset is included for educational use. SQL schema definitions, analytical views, and detailed query logic are intentionally excluded.
 ## Objectives
 - Establish the baseline customer churn rate
