@@ -1,7 +1,7 @@
 # Portfolio Summary
 This portfolio showcases SQL-based analytical and visualization projects using educational datasets,
 with a focus on uncovering meaningful patterns, trends, and actionable insights
-through comprehensive data analysis.
+through comprehensive structured data analysis.
 
 ---
 
@@ -100,8 +100,8 @@ A massive performance spike occurred in 2017, with profit reaching a peak of 16k
    
    #### Target Achievement 
    Using a 150k sales target, several categories are identified as "at risk" (Red) or "performing" (Green).
-  - Over-performers: Womens wear (~700k), Sportwear (~290k), and Mens Footwear (~250k).
-  - Under-performers: Babywear, Bath Clothes, and Childrens wear failed to meet the 150k threshold.
+  - **Over-performers:** Womens wear (~700k), Sportwear (~290k), and Mens Footwear (~250k).
+  - **Under-performers:** Babywear, Bath Clothes, and Childrens wear failed to meet the 150k threshold.
     
       <img width="602" height="410" alt="category-performance" src="https://github.com/user-attachments/assets/75562e91-2598-4655-9435-7822c5477629" />
       
