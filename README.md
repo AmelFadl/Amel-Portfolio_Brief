@@ -1,7 +1,7 @@
 # Portfolio Summary
-This portfolio showcases SQL-based analytical and visualization projects using educational datasets,
-with a focus on uncovering meaningful patterns, trends, and actionable insights
-through comprehensive structured data analysis.
+This portfolio showcases SQL-based analytical and visualization projects developed using educational datasets to support business decision-making across customer analytics, operational performance, and financial analysis.
+
+The work reflects capabilities in data modeling, hypothesis-driven analysis, and dashboard-based reporting, with increasing emphasis on data reliability, analytical rigor, and decision support quality.
 
 ---
 
@@ -73,3 +73,93 @@ Originally developed in October 2025.
 All SQL queries, analysis, and insights were developed independently.
 - All results are aggregated and anonymized.
 - Churn indicator values used in visual outputs: 1 = Churned, 0 = Not Churned.
+
+---
+
+ # Project 3: Retail Performance & Human Capital Analysis
+**Data Visualization (January 2026)**
+## Executive Summary
+This project analyzes retail business performance across profitability trends, departmental sales distribution, product category performance, and employee compensation structure. The analysis highlights a business heavily concentrated in the Clothing sector, with noticeable fluctuations in profitability and uneven performance across product categories.
+
+The objective is to provide a clear view of operational performance and support data-driven business decision-making.
+
+ ## Comprehensive Data Analysis
+   ### 1. Profitability & Growth Trends
+#### Timeframe
+Data spans from 2014 to 2018.
+#### Observation
+For most of the period, gross profit fluctuated between 0 and 2k.
+#### Key Outlier
+A massive performance spike occurred in 2017, with profit reaching a peak of 16k.
+
+<img width="598" height="407" alt="Profit Analysis" src="https://github.com/user-attachments/assets/1ccce1e0-553a-4e57-bcd1-997123a8e6b9" />
+
+   ### 2. Departmental & Category Performance
+   #### Department Comparison 
+   The Clothing department is the primary revenue driver, with sales totaling nearly 1.4M, vastly outperforming Shoes which sits below 500k
+   
+   <img width="598" height="407" alt="Department Sales" src="https://github.com/user-attachments/assets/32b8e0f0-85ec-4e52-83d1-cceb6d799738" />
+   
+   #### Target Achievement 
+   Using a 150k sales target, several categories are identified as "at risk" (Red) or "performing" (Green).
+  - **Over-performers:** Womens wear (~700k), Sportwear (~290k), and Mens Footwear (~250k).
+  - **Under-performers:** Babywear, Bath Clothes, and Childrens wear failed to meet the 150k threshold.
+    
+      <img width="602" height="410" alt="category-performance" src="https://github.com/user-attachments/assets/75562e91-2598-4655-9435-7822c5477629" />
+      
+   ### 3. Human Capital (Compensation Strategy)
+   #### Highest Earners
+   The payroll is led by Rob Carsson (193k) and Tom Lindwall (181k).
+   #### Job Distribution
+   Salaries are organized by roles including Sales Representative, Account Manager, and Product Manager.
+   #### Salary Range
+   Individual compensation varies from 83k (Product Manager) to 193k (Sales Representative).
+   
+<img width="596" height="404" alt="Employee Salary" src="https://github.com/user-attachments/assets/11067df9-3965-4647-a210-d0a72cdc5980" />
+
+### 4. Risk & Data Considerations
+##### Profit Volatility Observation
+A sharp profit increase in 2017 (~16k vs baseline 0–2k) indicates an abnormal fluctuation in financial performance.
+
+- This may reflect structural changes, one-off transactions, or data aggregation inconsistencies.
+- The dataset does not provide transaction-level detail to fully validate the cause.
+
+To improve reliability of reporting, automated checks for extreme variance in profitability could help validate future outputs before decision-making.
+  
+#### Revenue Concentration in Clothing Department
+A large proportion of revenue is concentrated in the Clothing department (~1.4M vs <500k in others).
+
+- This indicates high dependency on a single product category.
+- Performance volatility in this segment may significantly affect overall results.
+
+Monitoring category-level variance trends would help ensure more balanced business performance tracking.
+  
+#### Compensation vs Performance Visibility
+Salary distribution among employees shows high earners in sales roles, but direct linkage between compensation and validated performance metrics is not explicitly defined in the dataset.
+
+This highlights a potential gap between compensation structure and measurable productivity indicators.
+
+A structured KPI-based validation approach would strengthen alignment between performance and rewards.
+
+#### Data Aggregation Limitations
+The analysis is based on aggregated visualization outputs.
+
+- Underlying transaction-level validation is not available.
+- Data completeness and transformation steps are not fully observable.
+
+Establishing standardized data validation rules would improve trust in reporting outputs.
+
+### Strategic Insights & Recommendations
+#### Revenue Diversification
+The business is heavily reliant on Womens wear. To stabilize profit, the company should investigate why Mens Clothes and Babywear are underperforming against the 150k target.
+#### Performance Optimization
+Underperforming categories should be reviewed to identify gaps in demand, pricing, or product positioning.
+
+#### Profit Spike Investigation
+The 2017 profit spike should be analyzed to determine whether it resulted from operational changes, exceptional events, or reporting inconsistencies.
+
+#### Compensation Alignment
+Sales compensation structure should be evaluated to ensure alignment with verified performance outcomes and category contribution.
+
+## Note
+This is an independent case study conducted as part of a professional development initiative. The analysis uses a public retail dataset to demonstrate end-to-end data visualization and business intelligence reporting capabilities.
