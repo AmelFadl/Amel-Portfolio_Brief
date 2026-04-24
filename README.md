@@ -1,7 +1,7 @@
 # Portfolio Summary
 This portfolio showcases SQL-based analytical and visualization projects developed using educational datasets to support business decision-making across customer analytics, operational performance, and financial analysis.
 
-The work reflects capabilities in data modeling, hypothesis-driven analysis, and dashboard-based reporting, with increasing emphasis on data reliability, analytical rigor, and decision support quality.
+The work reflects capabilities in data modeling, hypothesis-driven analysis, and dashboard-based reporting, with increasing emphasis on analytical rigor and decision support quality.
 
 ---
 
