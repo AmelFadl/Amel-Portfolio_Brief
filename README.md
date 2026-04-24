@@ -78,7 +78,7 @@ All SQL queries, analysis, and insights were developed independently.
 
  # Project 3: Retail Performance & Human Capital Analysis
 **Data Visualization (January 2026)**
-## Executive Summary
+## Summary
 This project analyzes retail business performance across profitability trends, departmental sales distribution, product category performance, and employee compensation structure. The analysis highlights a business heavily concentrated in the Clothing sector, with noticeable fluctuations in profitability and uneven performance across product categories.
 
 The objective is to provide a clear view of operational performance and support data-driven business decision-making.
