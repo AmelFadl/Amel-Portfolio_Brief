@@ -26,7 +26,7 @@ All SQL queries, analysis, and insights were developed independently.
 ---
 
 # Project 2: Hypothesis-Driven Telecom Customer Churn Analysis (SQL-Based)
-Advanced SQL Analytics Project (October 2025)**
+Advanced SQL Analytics Project (October 2025)
 
 ## Project Overview
 This project presents production-ready analytics of a telecom customer churn study, focused on identifying key churn drivers, providing actionable insights, and validating 10 business hypotheses using SQL-based data modeling and aggregation logic. A baseline churn rate of approximately 26.5% was established using an integrated customer and service dataset. Strategic recommendations are provided to support customer retention initiatives. 
