@@ -147,4 +147,4 @@ actionable insights for strategic decision-making.
 
 ---
 # Note
- All analytics projects listed are independent technical case studies engineered using publicly available benchmark datasets to evaluate real-world risk, business intelligence, and data governance frameworks.
+The analytical frameworks, SQL logic, risk models, and dashboard layouts showcased in this portfolio reflect solutions engineered during professional consulting engagements. To comply with Non-Disclosure Agreements (NDAs), client confidentiality, and data privacy regulations, all metrics, employee names, and visual dataset outputs shown in this repository have been modeled using sanitized, anonymized, or public benchmark datasets.
