@@ -1,5 +1,4 @@
 # Portfolio Summary
-All analytics projects listed are independent technical case studies engineered using publicly available benchmark datasets to evaluate real-world risk, business intelligence, and data governance frameworks.
 
 ---
 
@@ -145,3 +144,7 @@ actionable insights for strategic decision-making.
 ## Tools & Platform
 - Analysis Tool: SQL
 - Platform: MySQL Workbench
+
+---
+# Note
+ All analytics projects listed are independent technical case studies engineered using publicly available benchmark datasets to evaluate real-world risk, business intelligence, and data governance frameworks.
